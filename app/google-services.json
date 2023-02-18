@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155426588091",
+    "firebase_url": "https://fir-realtimedatabaserecv-default-rtdb.firebaseio.com",
+    "project_id": "fir-realtimedatabaserecv",
+    "storage_bucket": "fir-realtimedatabaserecv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155426588091:android:f5aaed959f62959609709e",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabaserecyclerviewjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155426588091-au18882fe8fm360t09sjqs7jpimq3vo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxlTQ0V_YzaQbzn9lyutMsgGDYRDD0EeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155426588091-au18882fe8fm360t09sjqs7jpimq3vo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
